@@ -1,0 +1,12 @@
+Door,Door
+Double Door,Door.*Double
+Wall,^((?!.*Door).*Wall.*)*$|^((?!.*Door).*Overhead.*)*$
+Floor,Floor
+Roof,Ceiling|Roof
+Elevator,Elevator
+Stair,Stair
+Window,Panel
+Water,
+Sand,
+Light,Light|light
+Fall Through,True
