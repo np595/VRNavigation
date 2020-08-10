@@ -1,0 +1,5 @@
+Paul: Model Processor, leading the team, refining scripts
+
+Nicholas: All door scripts, all window scripts, all elevator scripts, sand scripts, and Object Component Provider script
+
+Devin: All Player movement scripts, all vr scripts
